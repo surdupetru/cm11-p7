@@ -1,0 +1,49 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+	<LinearLayout
+		android:id="@+id/fragment_0_layout"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical"
+    	>
+
+
+    	<TextView android:id="@+id/fragment_0_tv1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center"
+        	android:layout_marginBottom="4dp"
+        	android:layout_marginLeft="8dp"
+        	android:layout_marginRight="8dp"
+        	android:layout_marginTop="16dp"
+        	android:background="@drawable/shape_round_rect"
+        	android:paddingBottom="8dp"
+        	android:paddingLeft="8dp"
+        	android:paddingRight="8dp"
+        	android:paddingTop="8dp"
+        	android:textAppearance="?android:attr/textAppearanceMedium" >
+    	</TextView>
+
+    	<TextView
+        	android:id="@+id/fragment_0_tv2"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center"
+        	android:layout_marginBottom="4dp"
+        	android:layout_marginLeft="8dp"
+        	android:layout_marginRight="8dp"
+        	android:layout_marginTop="4dp"
+        	android:paddingBottom="8dp"
+        	android:paddingLeft="8dp"
+        	android:paddingRight="8dp"
+        	android:paddingTop="8dp"
+        	android:textAppearance="?android:attr/textAppearanceMedium" >
+    	</TextView>
+
+ 
+   	</LinearLayout>
+
+</ScrollView>

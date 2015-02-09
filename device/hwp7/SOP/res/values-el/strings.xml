@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Άνοιγμα συρταριού πλοήγησης</string>
+    <string name="drawer_close">Κλείσιμο συρτάρι πλοήγησης</string>
+
+    <string name="action_exit">έξοδος</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nιδιότητες και τη ρύθμιση των υπηρεσιών εκκίνησης</string>
+    <string name="fragment_0_text">Ο σκοπός αυτού του μικρού app είναι να ορίσετε τις ιδιότητες ROM-ειδικά με την εκτέλεση αρκετών \"setprop\" εντολές για σας\n\nγραμμένο από xdaid</string>
+
+    <string name="fragment_1_label">Παρατεταμένη αποθήκευση\nοι ρυθμίσεις αυτές τεθούν σε ισχύ μετά την επανεκκίνηση</string>
+    <string name="fragment_1_radio1">Παρατεταμένη αποθήκευση απενεργοποιημένη</string>
+    <string name="fragment_1_radio2">Παρατεταμένη αποθήκευση ενεργοποιημένη</string>
+    <string name="fragment_1_button">\u0020επανεκκίνηση τώρα\u0020</string>
+
+    <string name="fragment_2_label">Λειτουργία Γάντια\nαυτές οι ρυθμίσεις να ισχύει αμέσως</string>
+    <string name="fragment_2_radio1">Απενεργοποίηση</string>
+    <string name="fragment_2_radio2">Ενεργοποίηση</string>
+    <string name="fragment_2_switch">κάνετε την επιλογή σας μόνιμα\nεφαρμόσει εκ νέου το προφίλ κατά την εκκίνηση</string>
+
+</resources>

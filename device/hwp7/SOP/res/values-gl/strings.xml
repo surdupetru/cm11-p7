@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Caixón de navegación Abrir</string>
+    <string name="drawer_close">Pechar caixón navegación</string>
+
+    <string name="action_exit">Saída</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\npropiedades e configuración do servizo de arranque</string>
+    <string name="fragment_0_text">O obxectivo deste pequena aplicación é definir propiedades específicas de ROM, executando varios \"setprop\" comandos para ti\n\nescrito por xdaid</string>
+
+    <string name="fragment_1_label">Almacenamento prolongado\nesta configuración entren en vigor tras a reinicio</string>
+    <string name="fragment_1_radio1">Almacenamento prolongado desactivada</string>
+    <string name="fragment_1_radio2">Almacenamento prolongado habilitado</string>
+    <string name="fragment_1_button">\u0020reiniciar agora\u0020</string>
+
+    <string name="fragment_2_label">Luvas Modo\nesta configuración teñan efecto inmediato</string>
+    <string name="fragment_2_radio1">Desactivar</string>
+    <string name="fragment_2_radio2">Posibilitar</string>
+    <string name="fragment_2_switch">faga a súa elección permanente\nrecandidatar-se o perfil na inicialización</string>
+
+</resources>

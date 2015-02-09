@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Açık navigasyon çekmece</string>
+    <string name="drawer_close">Kapat navigasyon çekmece</string>
+
+    <string name="action_exit">çıkış</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nözellikleri ve önyükleme hizmeti kurulum</string>
+    <string name="fragment_0_text">Bu küçük app amacı, çeşitli yürüterek ROM özgü özelliklerini ayarlamak için \"setprop\" Senin için komutlar\n\nxdaid tarafından yazılmış</string>
+
+    <string name="fragment_1_label">Genişletilmiş Depolama\nBu ayarların yeniden başlatıldıktan sonra yürürlüğe girecek</string>
+    <string name="fragment_1_radio1">Uzun süreli depolama devre dışı</string>
+    <string name="fragment_1_radio2">Etkin genişletilmiş depolama</string>
+    <string name="fragment_1_button">\u0020şimdi yeniden\u0020</string>
+
+    <string name="fragment_2_label">Eldiven Modu\nBu ayarlar hemen ve etkili</string>
+    <string name="fragment_2_radio1">Devre dışı</string>
+    <string name="fragment_2_radio2">Etkinleştirmek</string>
+    <string name="fragment_2_switch">seçim kalıcı hale\naçılışta yeniden uygulayın profili</string>
+
+</resources>

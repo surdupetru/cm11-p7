@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Config>
+    <Global>
+        <InvalidYuvCorrec>0</InvalidYuvCorrec>
+        <NoiseReducFlag>1</NoiseReducFlag>
+        <ContrastEnhanceFlag>0</ContrastEnhanceFlag>
+        <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+        <ColorManageFlag>0</ColorManageFlag>
+    </Global>
+
+    <NoiseReduction>
+        <ISO1>
+            <isovalue>100</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+           <luma>-90</luma>
+            <chroma>-80</chroma>
+            <lumaHF>-90</lumaHF>
+            <chromaHF>-80</chromaHF>
+            <detail>-100</detail>
+        </ISO1>
+        <ISO2>
+            <isovalue>200</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-90</luma>
+            <chroma>-70</chroma>
+            <lumaHF>-90</lumaHF>
+            <chromaHF>-70</chromaHF>
+            <detail>-100</detail>
+        </ISO2>
+        <ISO3>
+            <isovalue>400</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-90</luma>
+            <chroma>-60</chroma>
+            <lumaHF>-80</lumaHF>
+            <chromaHF>-60</chromaHF>
+            <detail>-100</detail>
+        </ISO3>
+        <ISO4>
+            <isovalue>800</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-80</luma>
+            <chroma>-80</chroma>
+            <lumaHF>-80</lumaHF>
+            <chromaHF>-80</chromaHF>
+            <detail>-101</detail>
+        </ISO4>
+        <ISO5>
+            <isovalue>1600</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-80</luma>
+            <chroma>-70</chroma>
+            <lumaHF>-80</lumaHF>
+            <chromaHF>-70</chromaHF>
+            <detail>-101</detail>
+        </ISO5>
+        <ISO6>
+            <isovalue>3200</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-70</luma>
+            <chroma>-60</chroma>
+            <lumaHF>-70</lumaHF>
+            <chromaHF>-60</chromaHF>
+            <detail>-101</detail>
+        </ISO6>
+        <ISO7>
+            <isovalue>4800</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-60</luma>
+            <chroma>-50</chroma>
+            <lumaHF>-60</lumaHF>
+            <chromaHF>-50</chromaHF>
+            <detail>-101</detail>
+        </ISO7>
+        <ISO8>
+            <isovalue>6400</isovalue>
+
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>1</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <luma>-50</luma>
+            <chroma>-30</chroma>
+            <lumaHF>-50</lumaHF>
+            <chromaHF>-30</chromaHF>
+            <detail>-101</detail>
+        </ISO8>
+    </NoiseReduction>
+
+    <ContrastEnhancement>
+    <face>
+        <faceColorSpecific>1</faceColorSpecific>
+        <faceBrightSpecificHighThresh>135</faceBrightSpecificHighThresh>
+        <faceBrightSpecificLowThresh>25</faceBrightSpecificLowThresh>
+        <maxFaceNumConsideration>8</maxFaceNumConsideration>
+
+    </face>
+    <Detail>
+        <ISO1>
+            <isovalue>100</isovalue>
+            <detail>1.1</detail>
+        </ISO1>
+        <ISO2>
+            <isovalue>240</isovalue>
+            <detail>1.1</detail>
+        </ISO2>
+        <ISO3>
+            <isovalue>400</isovalue>
+            <detail>1.1</detail>
+        </ISO3>
+        <ISO4>
+            <isovalue>800</isovalue>
+            <detail>1.0</detail>
+        </ISO4>
+        <ISO5>
+            <isovalue>1400</isovalue>
+            <detail>1.0</detail>
+        </ISO5>
+        <ISO6>
+            <isovalue>2000</isovalue>
+            <detail>1.0</detail>
+        </ISO6>
+        <ISO7>
+            <isovalue>3200</isovalue>
+            <detail>1.0</detail>
+        </ISO7>
+        <ISO8>
+            <isovalue>6400</isovalue>
+            <detail>1.0</detail>
+        </ISO8>
+
+    </Detail>
+        <GlobalLinear>
+            <lowThre>80</lowThre>
+            <rangeThre>100</rangeThre>
+            <lowLightHisMaxThre>80</lowLightHisMaxThre>
+            <lowLightHisWidthThre>30</lowLightHisWidthThre>
+            <pureBlackHistWidthThre>20</pureBlackHistWidthThre>
+            <uvGrayHighThre>132</uvGrayHighThre>
+            <uvGrayLowThre>124</uvGrayLowThre>
+        </GlobalLinear>
+        <OverSatureSolution>
+            <overSatureSolutin>2</overSatureSolutin>
+        </OverSatureSolution>
+        <outdoor>
+            <osFactor>1</osFactor>
+            <isSaturedOn>0</isSaturedOn>
+            <isoThreshold>70</isoThreshold>
+            <expThreshold>100</expThreshold>
+            <NSLUT>
+                1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 6 7 8 9 10 11 13 14 15 17 18 20 21 23 24 26 27 28 30 31 32 34 35 36 37 38 39 39 40 41 42 42 43 44 44 44 45 45 46 46 46 47 47 47 48 48 48 48 48 49 49 49 49 49 49 49 49 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51
+            </NSLUT>
+            <CNLUT>
+                0 0 1 1 2 2 2 3 3 4 4 4 5 5 6 6 6 7 7 8 8 8 9 9 10 10 10 11 11 11 12 12 12 12 13 13 13 14 14 14 15 15 15 16 16 16 16 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+        </CNLUT>
+            <alphaBlending>
+                <userNS>0.2</userNS>
+                <alphaT>0.5</alphaT>
+                <lowThreshold>25</lowThreshold>
+                <highThreshold>100</highThreshold>
+            </alphaBlending>
+        </outdoor>
+        <night>
+            <osFactor>1</osFactor>
+            <isSaturedOn>0</isSaturedOn>
+            <isoThreshold>700</isoThreshold>
+            <expThreshold>35</expThreshold>
+            <NSLUT>
+                12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 13 13 13 14 14 14 15 15 16 16 16 17 17 18 18 19 19 20 21 21 22 22 23 23 24 24 25 25 26 26 27 27 28 28 29 29 30 30 30 31 31 31 32 32 32 32 33 33 33 33 34 34 34 34 34 35 35 35 35 35 35 35 36 36 36 36 36 36 36 36 36 36 36 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+            </NSLUT>
+            <CNLUT>
+                0 0 1 1 2 2 2 3 3 4 4 4 5 5 6 6 6 7 7 8 8 8 9 9 10 10 10 11 11 11 12 12 12 12 13 13 13 14 14 14 15 15 15 16 16 16 16 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+            </CNLUT>
+            <alphaBlending>
+                <userNS>0.7</userNS>
+                <alphaT>0.3</alphaT>
+                <lowThreshold>25</lowThreshold>
+                <highThreshold>100</highThreshold>
+            </alphaBlending>
+        </night>
+        <default>
+            <osFactor>5</osFactor>
+            <isSaturedOn>1</isSaturedOn>
+            <NSLUT>
+                1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 6 7 8 9 10 11 13 14 15 17 18 20 21 23 24 26 27 28 30 31 32 34 35 36 37 38 39 39 40 41 42 42 43 44 44 44 45 45 46 46 46 47 47 47 48 48 48 48 48 49 49 49 49 49 49 49 49 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51
+            </NSLUT>
+            <CNLUT>
+                0 0 1 1 2 2 2 3 3 4 4 4 5 5 6 6 6 7 7 8 8 8 9 9 10 10 10 11 11 11 12 12 12 12 13 13 13 14 14 14 15 15 15 16 16 16 16 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+            </CNLUT>
+            <alphaBlending>
+                <userNS>0.2</userNS>
+                <alphaT>0.4</alphaT>
+                <lowThreshold>25</lowThreshold>
+                <highThreshold>100</highThreshold>
+            </alphaBlending>
+        </default>
+        <backlight>
+            <NSLUT>
+                1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 6 7 8 9 10 11 13 14 15 17 18 20 21 23 24 26 27 28 30 31 32 34 35 36 37 38 39 39 40 41 42 42 43 44 44 44 45 45 46 46 46 47 47 47 48 48 48 48 48 49 49 49 49 49 49 49 49 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51
+            </NSLUT>
+            <alphaBlending>
+                <userNS>0.2</userNS>
+                <alphaT>0.5</alphaT>
+                <lowThreshold>25</lowThreshold>
+                <highThreshold>100</highThreshold>
+            </alphaBlending>
+        </backlight>
+        <facebacklight>
+            <NSLUT>
+                1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 6 7 8 9 10 11 13 14 15 17 18 20 21 23 24 26 27 28 30 31 32 34 35 36 37 38 39 39 40 41 42 42 43 44 44 44 45 45 46 46 46 47 47 47 48 48 48 48 48 49 49 49 49 49 49 49 49 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51
+            </NSLUT>
+        </facebacklight>
+        <hdr>
+            <osFactor>1</osFactor>
+            <isSaturedOn>0</isSaturedOn>
+            <NSLUT>
+                21 21 21 21 21 22 22 22 22 23 23 23 24 24 25 25 26 26 27 27 28 28 29 29 30 31 31 32 33 33 34 34 35 36 36 37 38 38 39 39 40 40 41 42 42 43 43 44 44 45 45 46 46 47 47 48 48 48 49 49 50 50 51 51 51 52 52 52 53 53 53 54 54 54 55 55 55 55 56 56 56 56 57 57 57 57 58 58 58 58 58 59 59 59 59 59 60 60 60 60 60 60 61 61 61 61 61 61 61 62 62 62 62 62 62 62 62 63 63 63 63 63 63 63 63 63 63 64 64 64 64 64 64 64 64 64 64 64 64 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 66 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 69
+            </NSLUT>
+        </hdr>
+        <hglc>
+            <skin>
+                <faceShrinkW>0.15</faceShrinkW>
+                <defaultFaceHueCenter>28</defaultFaceHueCenter>
+                <defaultFaceHueRadius>6</defaultFaceHueRadius>
+                <SGLUT>
+                    1.000000 1.000000 1.000000 0.999999 0.999998 0.999996 0.999992 0.999985 0.999974 0.999959 0.999937 0.999908 0.999869 0.999820 0.999758 0.999681 0.999587 0.999473 0.999338 0.999178 0.998991 0.998774 0.998524 0.998237 0.997911 0.997541 0.997125 0.996658 0.996137 0.995557 0.994915 0.994206 0.993427 0.992572 0.991638 0.990620 0.989513 0.988312 0.987014 0.985612 0.984103 0.982482 0.980743 0.978883 0.976896 0.974778 0.972524 0.970129 0.967590 0.964901 0.962059 0.959059 0.955898 0.952573 0.949078 0.945412 0.941570 0.937551 0.933352 0.928971 0.924405 0.919653 0.914713 0.909586 0.904270 0.898766 0.893072 0.887191 0.881122 0.874868 0.868430 0.861811 0.855012 0.848038 0.840891 0.833575 0.826095 0.818454 0.810659 0.802713 0.794624 0.786396 0.778036 0.769550 0.760945 0.752227 0.743405 0.734485 0.725475 0.716382 0.707214 0.697979 0.688685 0.679339 0.669949 0.660523 0.651068 0.641594 0.632106 0.622613 0.613121 0.603639 0.594172 0.584729 0.575315 0.565936 0.556600 0.547312 0.538078 0.528903 0.519792 0.510751 0.501784 0.492896 0.484090 0.475371 0.466742 0.458207 0.449768 0.441430 0.433193 0.425061 0.417036 0.409120 0.401314 0.393619 0.386038 0.378571 0.371219 0.363983 0.356863 0.349859 0.342972 0.336202 0.329549 0.323011 0.316590 0.310284 0.304093 0.298016 0.292052 0.286201 0.280461 0.274831 0.269311 0.263899 0.258593 0.253393 0.248297 0.243303 0.238411 0.233619 0.228925 0.224328 0.219826 0.215418 0.211103 0.206877 0.202741 0.198693 0.194730 0.190852 0.187056 0.183342 0.179707 0.176150 0.172670 0.169265 0.165934 0.162674 0.159485 0.156366 0.153313 0.150328 0.147406 0.144549 0.141753 0.139018 0.136343 0.133726 0.131165 0.128660 0.126210 0.123812 0.121467 0.119172 0.116927 0.114731 0.112582 0.110479 0.108422 0.106409 0.104439 0.102511 0.100625 0.098779 0.096972 0.095204 0.093474 0.091780 0.090123 0.088500 0.086912 0.085357 0.083835 0.082345 0.080886 0.079457 0.078059 0.076689 0.075348 0.074035 0.072749 0.071489 0.070255 0.069047 0.067863 0.066704 0.065568 0.064455 0.063365 0.062297 0.061250 0.060225 0.059220 0.058235 0.057270 0.056324 0.055396 0.054487 0.053596 0.052723 0.051867 0.051027 0.050204 0.049397 0.048605 0.047829 0.047068 0.046321 0.045589 0.044871 0.044166 0.043475 0.042797 0.042132 0.041479 0.040839 0.040211 0.039594 0.038989 0.038395 0.037812 0.037240 0.036678 0.036127
+                </SGLUT>
+            </skin>
+        </hglc>
+    </ContrastEnhancement>
+
+    <SharpnessEnhancement>
+        <ISO1>
+            <isovalue>100</isovalue>
+            <peak>3.5</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO1>
+        <ISO2>
+            <isovalue>200</isovalue>
+            <peak>3</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO2>
+        <ISO3>
+            <isovalue>300</isovalue>
+            <peak>3</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO3>
+        <ISO4>
+            <isovalue>400</isovalue>
+            <peak>3</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO4>
+        <ISO5>
+            <isovalue>600</isovalue>
+            <peak>2.5</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO5>
+        <ISO6>
+            <isovalue>800</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO6>
+        <ISO7>
+            <isovalue>1000</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO7>
+        <ISO8>
+            <isovalue>1200</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO8>
+        <ISO9>
+            <isovalue>1600</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>4</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO9>
+        <ISO10>
+            <isovalue>2400</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>5</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO10>
+        <ISO11>
+            <isovalue>3200</isovalue>
+            <peak>2</peak>
+            <cutoffCoef>6</cutoffCoef>
+            <cutoff2>256</cutoff2>
+            <cutoff3Coef>6</cutoff3Coef>
+        </ISO11>
+    </SharpnessEnhancement>
+
+    <ColorManagement>
+        <normal>
+            <DataPath>cm_normal.dat</DataPath>
+        </normal>
+        <correction>
+            <DataPath>cm_correction.dat</DataPath>
+        </correction>
+        <luma_boost>
+                <DataPath>luma_boost_useless.dat</DataPath>
+        </luma_boost>
+        <skin_mask>
+                <DataPath>skin_mask_lite_useless.dat</DataPath>
+        </skin_mask>
+    </ColorManagement>
+
+    <SceneType>
+        <face>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>2</ColorManageFlag>
+
+            <NoiseReduction>
+                <delta_luma>0</delta_luma>
+                <delta_chroma>0</delta_chroma>
+                <delta_lumaHF>0</delta_lumaHF>
+                <delta_chromaHF>0</delta_chromaHF>
+            </NoiseReduction>
+        </face>
+
+        <sky>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>2</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <ColorManagement>
+                <DataPath>cm_sky.dat</DataPath>
+            </ColorManagement>
+        </sky>
+
+        <foliage>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>2</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <ColorManagement>
+                <DataPath>cm_foliage.dat</DataPath>
+            </ColorManagement>
+        </foliage>
+
+        <sunset>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>0</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>1</ColorManageFlag>
+
+            <ColorManagement>
+                <DataPath>cm_sunset.dat</DataPath>
+            </ColorManagement>
+        </sunset>
+
+        <facebacklight>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>0</ColorManageFlag>
+        </facebacklight>
+
+        <backlight>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>1</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>0</ColorManageFlag>
+        </backlight>
+
+        <night>
+            <NoiseReducFlag>1</NoiseReducFlag>
+            <ContrastEnhanceFlag>0</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>0</ColorManageFlag>
+
+            <NoiseReduction>
+                <delta_luma>10</delta_luma>
+                <delta_chroma>10</delta_chroma>
+                <delta_lumaHF>10</delta_lumaHF>
+                <delta_chromaHF>10</delta_chromaHF>
+            </NoiseReduction>
+        </night>
+
+        <intdoor>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>2</SharpnessEnhanceFlag>
+            <ColorManageFlag>2</ColorManageFlag>
+        </intdoor>
+
+        <outdoor>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>2</SharpnessEnhanceFlag>
+            <ColorManageFlag>2</ColorManageFlag>
+        </outdoor>
+
+        <hdr>
+            <NoiseReducFlag>2</NoiseReducFlag>
+            <ContrastEnhanceFlag>2</ContrastEnhanceFlag>
+            <SharpnessEnhanceFlag>0</SharpnessEnhanceFlag>
+            <ColorManageFlag>0</ColorManageFlag>
+        </hdr>
+
+    </SceneType>
+
+    <hdr>
+        <night_iso>800</night_iso>
+        <night_exposure>15</night_exposure>
+        <GhostRemovalMethod>0</GhostRemovalMethod>
+        <LocalMotionThresAuto>5</LocalMotionThresAuto>
+        <LocalMotionThresManual>10</LocalMotionThresManual>
+        <ImageFusionMethod>0</ImageFusionMethod>
+        <PostProcessValid>1</PostProcessValid>
+    </hdr>
+</Config>

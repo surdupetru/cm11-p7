@@ -1,0 +1,5 @@
+on property:sys.glovemode.enabled=0
+    write /sys/bus/platform/devices/huawei_touch/touch_glove 0
+
+on property:sys.glovemode.enabled=1
+    write /sys/bus/platform/devices/huawei_touch/touch_glove 1

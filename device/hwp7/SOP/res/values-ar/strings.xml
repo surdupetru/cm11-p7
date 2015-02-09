@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">فتح درج الملاحة</string>
+    <string name="drawer_close">وثيقة درج الملاحة</string>
+
+    <string name="action_exit">خروج</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nخصائص الإعداد والتمهيد الخدمة</string>
+    <string name="fragment_0_text">الغرض من هذا التطبيق الصغير هو لتعيين خصائص ROM محددة من خلال تنفيذ العديد من \"setprop\" أوامر لك\n\nكتبه xdaid</string>
+
+    <string name="fragment_1_label">التخزين الموسعة\nهذه الإعدادات نافذة المفعول بعد إعادة التشغيل</string>
+    <string name="fragment_1_radio1">التخزين الموسعة تعطيل</string>
+    <string name="fragment_1_radio2">التخزين الموسعة تمكين</string>
+    <string name="fragment_1_button">\u0020إعادة تشغيل الآن\u0020</string>
+
+    <string name="fragment_2_label">قفازات الوضع\nهذه الإعدادات نافذة المفعول فورا</string>
+    <string name="fragment_2_radio1">تعطيل</string>
+    <string name="fragment_2_radio2">تمكين</string>
+    <string name="fragment_2_switch">جعل اختيارك الدائم\nإعادة تطبيق الملف الشخصي في التمهيد</string>
+
+</resources>

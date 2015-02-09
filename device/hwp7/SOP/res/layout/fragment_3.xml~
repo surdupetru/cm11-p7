@@ -1,0 +1,86 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+	<LinearLayout
+		android:id="@+id/fragment_2_layout"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical"
+    	>
+
+
+    	<TextView android:id="@+id/fragment_2_tv1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center"
+        	android:layout_marginBottom="8dp"
+        	android:layout_marginLeft="8dp"
+        	android:layout_marginRight="8dp"
+        	android:layout_marginTop="16dp"
+        	android:background="@drawable/shape_round_rect"
+        	android:paddingBottom="8dp"
+        	android:paddingLeft="8dp"
+        	android:paddingRight="8dp"
+        	android:paddingTop="8dp"
+        	android:textAppearance="?android:attr/textAppearanceMedium" >
+    	</TextView>
+
+		<RadioGroup
+        	android:id="@+id/fragment_2_rg1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center"
+        	android:layout_marginBottom="20dp"
+        	android:layout_marginLeft="8dp"
+        	android:layout_marginRight="8dp"
+        	android:layout_marginTop="20dp"
+        	android:paddingBottom="8dp"
+        	android:paddingLeft="8dp"
+        	android:paddingRight="8dp"
+        	android:paddingTop="8dp"
+        	>
+ 
+        	<RadioButton
+            	android:id="@+id/fragment_2_rb1"
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+        		android:layout_gravity="left"
+            	android:text="@string/fragment_2_radio1" />
+ 
+        	<RadioButton
+            	android:id="@+id/fragment_2_rb2"
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+        		android:layout_gravity="left"
+            	android:text="@string/fragment_2_radio2" />
+ 
+        	<RadioButton
+            	android:id="@+id/fragment_2_rb3"
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+        		android:layout_gravity="left"
+            	android:text="@string/fragment_2_radio3" />
+
+       	</RadioGroup>
+
+		<Switch
+        	android:id="@+id/fragment_2_sv1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center"
+        	android:layout_marginBottom="8dp"
+        	android:layout_marginLeft="8dp"
+        	android:layout_marginRight="8dp"
+        	android:layout_marginTop="8dp"
+        	android:paddingBottom="8dp"
+        	android:paddingLeft="8dp"
+        	android:paddingRight="8dp"
+        	android:paddingTop="8dp" >
+    	</Switch>
+
+ 
+   	</LinearLayout>
+
+</ScrollView>

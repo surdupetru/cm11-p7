@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Buka laci navigasi</string>
+    <string name="drawer_close">Tutup navigasi laci</string>
+
+    <string name="action_exit">Keluar</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nhartanah dan persediaan perkhidmatan but</string>
+    <string name="fragment_0_text">Tujuan aplikasi kecil ini adalah untuk menetapkan sifat-sifat ROM khusus dengan melaksanakan beberapa \"setprop\" arahan untuk anda\n\nditulis oleh xdaid</string>
+
+    <string name="fragment_1_label">Penyimpanan Extended\ntetapan ini berkuatkuasa selepas reboot</string>
+    <string name="fragment_1_radio1">Penyimpanan Extended dilumpuhkan</string>
+    <string name="fragment_1_radio2">Penyimpanan Extended membolehkan</string>
+    <string name="fragment_1_button">\u0020reboot\u0020</string>
+
+    <string name="fragment_2_label">Mod sarung tangan\ntetapan ini berkuat kuasa serta-merta</string>
+    <string name="fragment_2_radio1">Melumpuhkan</string>
+    <string name="fragment_2_radio2">Membolehkan</string>
+    <string name="fragment_2_switch">membuat pilihan anda kekal\nmemohon semula profil pada but</string>
+
+</resources>

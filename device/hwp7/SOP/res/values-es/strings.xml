@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Abra el cajón de navegación</string>
+    <string name="drawer_close">Cierre el cajón de navegación</string>
+
+    <string name="action_exit">Salida</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nproperties and boot service setup</string>
+    <string name="fragment_0_text">El propósito de esta pequeña aplicación es para establecer las propiedades-ROM específica mediante la ejecución de varios \"setprop\" comandos para usted\n\nescrito por xdaid</string>
+
+    <string name="fragment_1_label">Almacenamiento prolongado\nestos ajustes son efectivos al reiniciar el sistema</string>
+    <string name="fragment_1_radio1">Almacenamiento prolongado deshabilitado</string>
+    <string name="fragment_1_radio2">Almacenamiento prolongado permitido</string>
+    <string name="fragment_1_button">\u0020reiniciar ahora\u0020</string>
+
+    <string name="fragment_2_label">Modo Guantes\nestos ajustes se aplican inmediatamente</string>
+    <string name="fragment_2_radio1">Desactivar</string>
+    <string name="fragment_2_radio2">Permitir</string>
+    <string name="fragment_2_switch">hacer su elección permanente\nperfil de volver a aplicar en el arranque</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Obriu el calaix de navegació</string>
+    <string name="drawer_close">Tanqueu el calaix de navegació</string>
+
+    <string name="action_exit">Sortida </string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\npropietats i configuració del servei d\'arrencada</string>
+    <string name="fragment_0_text">El propòsit d\'aquesta petita aplicació és per establir les propietats-ROM específica mitjançant l\'execució de diversos \"setprop\" ordres per a vostè\n\nescrit per xdaid</string>
+
+    <string name="fragment_1_label">Emmagatzematge prolongat\naquests ajustos són efectius en reiniciar el sistema</string>
+    <string name="fragment_1_radio1">Emmagatzematge prolongat deshabilitat</string>
+    <string name="fragment_1_radio2">Emmagatzematge prolongat permès</string>
+    <string name="fragment_1_button">\u0020reiniciar ara\u0020</string>
+
+    <string name="fragment_2_label">Mode Guants\naquests ajustos s\'apliquen immediatament</string>
+    <string name="fragment_2_radio1">Desactivar</string>
+    <string name="fragment_2_radio2">Permetre</string>
+    <string name="fragment_2_switch">fer la seva elecció permanent\nperfil de tornar a aplicar en l\'arrencada</string>
+
+</resources>

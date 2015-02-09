@@ -1,0 +1,18 @@
+#rild
+/dev/akm8975_aot               u:object_r:sensors_device:s0
+/dev/akm8975_dev               u:object_r:sensors_device:s0
+/dev/ttyUSB1                   u:object_r:radio_device:s0
+/dev/ttyUSB0                   u:object_r:radio_device:s0
+/dev/ttyACM0                   u:object_r:radio_device:s0
+/dev/ttyACM1                   u:object_r:radio_device:s0
+/dev/ttyACM2                   u:object_r:radio_device:s0
+/dev/ttyACM3                   u:object_r:radio_device:s0
+
+#The devices and files used by the hciattach service are device specific
+/dev/hci_tty                         u:object_r:hci_attach_dev:s0
+
+# for wpa_supp
+/dev/rfkill u:object_r:rfkill_device:s0
+
+# Firmwares
+/system/etc/firmware/ti-connectivity/wl1271-nvs.bin u:object_r:radio_data_file:s0

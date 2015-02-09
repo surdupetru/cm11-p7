@@ -1,0 +1,28 @@
+on post-fs-data
+# VIA flashlessd service
+    mkdir /data/flashless 0770 radio nvram
+    mkdir /data/nvram/md_via 0770 root nvram
+
+    chown radio radio /dev/ttyAMA0
+    chmod 0660 /dev/ttyAMA0
+    chown radio radio /dev/vmodem
+    chmod 0660 /dev/vmodem
+
+#VIA pppd service
+    mkdir /data/pppd_via 0770 radio system
+
+on boot
+#VIA device property
+setprop viatel.device.asci uart.0.ttyAMA
+setprop viatel.device.fls  sdio.2.ttySDIO
+setprop viatel.device.at   sdio.10.ttySDIO
+setprop viatel.device.data sdio.0.ttySDIO
+setprop viatel.device.pcv sdio.4.ttySDIO
+setprop viatel.device.gps sdio.5.ttySDIO
+
+#statusd service
+service statusd /system/bin/statusd -f [/system/bin/flashlessd -m 0]
+    class server
+    user root
+    group radio cache inet misc nvram
+    

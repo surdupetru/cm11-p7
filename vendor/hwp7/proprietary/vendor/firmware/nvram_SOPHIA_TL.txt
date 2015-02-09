@@ -1,0 +1,81 @@
+#######################################################################################
+# NVRAM file for BCM4334 OSCAR-3G, FEM is SKY
+#######################################################################################
+#     Date      #     Description                      #         Owner    
+#######################################################################################
+#  2013.06.25   #   release for EDGE+, HW_OOB          #    Zhip@broadcom.com   
+#######################################################################################
+#  2013.07.02   #   modify ant-switch for EDGE+        #    Zhip@broadcom.com
+#######################################################################################
+#  2013.07.08   #   modify for long level tigger       #    Zhip@broadcom.com
+#######################################################################################
+#  2013.07.10   #   tune ant-switch for better RF      #    Zhip@broadcom.com
+#######################################################################################
+#  2013.07.31   #   TSSI is done using EDGE+ PCB       #    Zhip@broadcom.com
+#######################################################################################
+#  2013.08.15   #   TSSI is done using OSCAR-3G PCB    #    Zhip@broadcom.com
+#######################################################################################
+
+
+manfid=0x2d0
+prodid=0x05de
+vendid=0x14e4
+devid=0x4380
+boardtype=0x05de
+boardrev=0x1230
+boardnum=22
+macaddr=00:90:4c:c5:12:38
+sromrev=3
+xtalfreq=37400
+nocrc=1
+ag0=255
+aa2g=1
+ccode=CN
+pa0itssit=0x20
+pa0b0=0x19ef
+pa0b1=0xfd49
+pa0b2=0xffb6
+tssifloor2g=58
+txidxcap2g=40
+extpagain2g=2
+rssismf2g=0xf
+rssismc2g=0x8
+rssisav2g=0x1
+cckPwrOffset=3
+cckPwrOffset40=14
+maxp2ga0=0x4a
+ofdm2gpo=0x22222222
+mcs2gpo0=0x2222
+mcs2gpo1=0x2222
+il0macaddr=00:90:4c:c5:12:38
+wl0id=0x431b
+pagc2g=0x10
+dacrate2xen=1
+txalpfbyp=1
+txalpfpu=1
+swctrlmap_2g=0x00400040,0x00030001,0x00010001,0x040301,0x1FF
+gain=26
+triso2g=8
+#OOB parameters
+hostwake=0x40
+hostrdy=0x41
+usbrdy=0x03
+usbrdydelay=100
+deadman_to=0xffffffff
+# muxenab: 
+muxenab=0x2
+sd_gpout=4
+sd_oobonly=1
+sd_level_trigger=1
+loflag=1
+txiqlopapu2g=0
+dlorange_lowlimit=5
+dacpu.fab.4=1
+# bt & wifi coexist parameter
+boardflags=0x00081a01
+btc_params1=7500
+btc_params8=50000
+btc_params16=5000
+btc_params22=1000
+btc_params48=50000
+

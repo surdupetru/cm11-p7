@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Otevřít navigace zásuvka</string>
+    <string name="drawer_close">Zavřít navigace zásuvka</string>
+
+    <string name="action_exit">Výjezd</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nvlastnosti a nastavení boot servis</string>
+    <string name="fragment_0_text">Účelem této malé aplikace je nastavení vlastností ROM specifické provedením několika
+ \"setprop\" příkazy pro vás\n\nnapsal xdaid</string>
+
+    <string name="fragment_1_label">Dlouhodobé skladování\ntato nastavení se projeví až po restartu</string>
+    <string name="fragment_1_radio1">Dlouhodobé skladování zakázán</string>
+    <string name="fragment_1_radio2">Dlouhodobé skladování povolen</string>
+    <string name="fragment_1_button">\u0020nyní restartovat\u0020</string>
+
+    <string name="fragment_2_label">Režim rukavice\ntato nastavení se projeví okamžitě</string>
+    <string name="fragment_2_radio1">Zakázat</string>
+    <string name="fragment_2_radio2">Umožnit</string>
+    <string name="fragment_2_switch">aby vaše volba trvalá\nznovu použít nastavení při startu</string>
+
+</resources>

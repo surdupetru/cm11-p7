@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Öffnen Navigation Schublade</string>
+    <string name="drawer_close">Schließen Navigation Schublade</string>
+
+    <string name="action_exit">Ausgang</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\neigenschaften und Boot-Service-Setup</string>
+    <string name="fragment_0_text">Der Zweck dieser kleinen App ist es, ROM-spezifischen Eigenschaften durch die Ausführung mehrerer eingestellt \"setprop\" befehle für sie\n\nvon xdaid geschrieben</string>
+
+    <string name="fragment_1_label">Erweiterte Speicher\ndiese einstellungen werden erst nach neustart</string>
+    <string name="fragment_1_radio1">Erweiterte Speicher deaktiviert</string>
+    <string name="fragment_1_radio2">Erweiterter Speicher aktiviert</string>
+    <string name="fragment_1_button">\u0020jetzt neu starten\u0020</string>
+
+    <string name="fragment_2_label">Handschoenen Mode\ndiese einstellungen werden sofort wirksam</string>
+    <string name="fragment_2_radio1">Uitschakelen</string>
+    <string name="fragment_2_radio2">Mogelijk te maken</string>
+    <string name="fragment_2_switch">Ihre wahl permanent\nerneut bewerben profil auf boot</string>
+
+</resources>

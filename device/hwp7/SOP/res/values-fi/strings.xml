@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Avoin navigointi laatikon</string>
+    <string name="drawer_close">Vilkkaasti liikennöidyillä laatikon</string>
+
+    <string name="action_exit">Poistuminen </string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nominaisuuksia ja boot palvelun asetukset</string>
+    <string name="fragment_0_text">Tässä pieni sovellus on asettaa ROM-erityisiä ominaisuuksia suorittamalla useita \"setprop\" komentoja sinulle\n\nkirjoittanut xdaid</string>
+
+    <string name="fragment_1_label">Pitkäaikaisvarastointi\nnämä asetukset tulevat voimaan uudelleenkäynnistyksen jälkeen</string>
+    <string name="fragment_1_radio1">Pitkäaikaisvarastointi käytöstä</string>
+    <string name="fragment_1_radio2">Pitkäaikaisvarastointi käytössä</string>
+    <string name="fragment_1_button">\u0020käynnistämään uudelleen\u0020</string>
+
+    <string name="fragment_2_label">Käsineet tila\nnämä asetukset tulevat voimaan heti</string>
+    <string name="fragment_2_radio1">Poistaa</string>
+    <string name="fragment_2_radio2">Käyttöön</string>
+    <string name="fragment_2_switch">tee valintasi pysyvä\nhakea uudelleen profiilin käynnistyksen</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Отворена навигација фиока</string>
+    <string name="drawer_close">Затвори навигација фиока</string>
+
+    <string name="action_exit">Излаз</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nсвојства и подешавање чизма сервис</string>
+    <string name="fragment_0_text">Сврха овог малог апликације је да поставите РОМ-специфична својства извршавањем неколико \"setprop\" команде за вас\n\nвриттен би xdaid</string>
+
+    <string name="fragment_1_label">Ектендед складиштење\nове поставке се активирати након поновног покретања</string>
+    <string name="fragment_1_radio1">Проширена складиштење онемогућен</string>
+    <string name="fragment_1_radio2">Проширена складиштење омогућен</string>
+    <string name="fragment_1_button">\u0020ребоот сада\u0020</string>
+
+    <string name="fragment_2_label">Рукавице Моде\nове поставке ступају на снагу одмах</string>
+    <string name="fragment_2_radio1">Oнемогући</string>
+    <string name="fragment_2_radio2">Oмогућити</string>
+    <string name="fragment_2_switch">учинити ваш избор стални\nпоново применити профил на чизми</string>
+
+</resources>

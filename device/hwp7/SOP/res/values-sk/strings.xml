@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Otvoriť navigácia zásuvka</string>
+    <string name="drawer_close">Zavrieť navigácia zásuvka</string>
+
+    <string name="action_exit">Výjazd</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nvlastnosti a nastavenie boot servis</string>
+    <string name="fragment_0_text">Účelom tejto malej aplikácie je nastavenie vlastností ROM špecifické prevedením niekoľkých \"setprop\" príkazy pre vás\n\nnapísal xdaid</string>
+
+    <string name="fragment_1_label">Rozšírené Skladovanie\ntieto nastavenia sa prejaví až po reštarte</string>
+    <string name="fragment_1_radio1">Dlhodobé skladovanie zakázaný</string>
+    <string name="fragment_1_radio2">Dlhodobé skladovanie povolený</string>
+    <string name="fragment_1_button">\u0020teraz reštartovať\u0020</string>
+
+    <string name="fragment_2_label">Režim rukavice\ntieto nastavenia sa prejavia okamžite</string>
+    <string name="fragment_2_radio1">Zakázať</string>
+    <string name="fragment_2_radio2">Umožniť</string>
+    <string name="fragment_2_switch">aby vaša voľba trvalá\nznovu použiť nastavenie pri štarte</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">開いたナビゲーション引き出し</string>
+    <string name="drawer_close">閉じるナビゲーション引き出し</string>
+
+    <string name="action_exit">出口</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nプロパティおよびブートサービスのセットアップ</string>
+    <string name="fragment_0_text">この小さなアプリケーションの目的は、いくつかを実行することで、ROM固有のプロパティを設定することです \"setprop\" あなたのためのコマンド\n\nxdaidによって書かれた</string>
+
+    <string name="fragment_1_label">拡張記憶装置\nこれらの設定は、再起動後に有効になります</string>
+    <string name="fragment_1_radio1">拡張ストレージ使用不可</string>
+    <string name="fragment_1_radio2">有効拡張記憶</string>
+    <string name="fragment_1_button">\u0020今すぐ再起動\u0020</string>
+
+    <string name="fragment_2_label">手袋モード\nこれらの設定はすぐに有効になります</string>
+    <string name="fragment_2_radio1">無効にする</string>
+    <string name="fragment_2_radio2">有効にする</string>
+    <string name="fragment_2_switch">あなたの選択を永続的に\n起動時に再適用プロフィール</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Открыть навигации ящик</string>
+    <string name="drawer_close">Закрыть навигации ящик</string>
+
+    <string name="action_exit">Выход</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nсвойства и установки сервис загрузки</string>
+    <string name="fragment_0_text">Цель этого небольшое приложение является установка свойства ROM конкретных, выполнив несколько \"setprop\" Команды для вас\n\nнаписана xdaid</string>
+
+    <string name="fragment_1_label">Длительное хранение\nэти параметры вступают в силу после перезагрузки</string>
+    <string name="fragment_1_radio1">Длительное хранение отключена</string>
+    <string name="fragment_1_radio2">Длительное хранение включен</string>
+    <string name="fragment_1_button">\u0020перезагрузкy\u0020</string>
+
+    <string name="fragment_2_label">перчатки Режим\nэти параметры вступают в силу немедленно</string>
+    <string name="fragment_2_radio1">отключить</string>
+    <string name="fragment_2_radio2">включить</string>
+    <string name="fragment_2_switch">сделать свой выбор постоянным\nповторно применить профиль при загрузке</string>
+
+</resources>

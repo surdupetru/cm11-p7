@@ -1,0 +1,19 @@
+#
+# system.prop for P7-L10
+#
+
+rild.libpath=/system/lib/libbalong-ril.so
+rild.libargs=-m modem0
+rild.libpath1=/system/lib/libbalong-ril-1.so
+rild.libargs1=-m modem1
+audioril.lib=libbalong_audio_ril.so
+ro.ril.ecclist=112,911,#911,*911
+#ro.telephony.ril_class=AscendP7RIL
+ro.sf.lcd_density=480
+
+ro.config.KeyPassToUser=true
+ro.config.keypasstouser=true
+ro.config.enable.telecom_epush=false
+ro.hwcamera.startbypowervolume=false
+ro.hwcamera.fastcapture=false
+ro.hwcamera.sound.muteable=true

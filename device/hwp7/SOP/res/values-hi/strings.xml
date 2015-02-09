@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">ओपन नेविगेशन दराज</string>
+    <string name="drawer_close">बंद नेविगेशन दराज</string>
+
+    <string name="action_exit">निकास</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nनिकास</string>
+    <string name="fragment_0_text">इस छोटी app के प्रयोजन के कई निष्पादित द्वारा रॉम विशिष्ट गुण सेट करने के लिए है  \"setprop\" आप के लिए आदेश\n\nxdaid द्वारा लिखित</string>
+
+    <string name="fragment_1_label">विस्तारित भंडारण\nइन सेटिंग्स को रिबूट के बाद प्रभावी</string>
+    <string name="fragment_1_radio1">विस्तारित भंडारण अक्षम</string>
+    <string name="fragment_1_radio2">सक्षम विस्तारित भंडारण</string>
+    <string name="fragment_1_button">\u0020अब रिबूट\u0020</string>
+
+    <string name="fragment_2_label">दस्ताने मोड\nइन सेटिंग्स को तत्काल प्रभाव से लागू</string>
+    <string name="fragment_2_radio1">को निष्क्रिय</string>
+    <string name="fragment_2_radio2">सक्षम</string>
+    <string name="fragment_2_switch">अपनी पसंद को स्थायी बनाने\nबूट पर फिर से लागू प्रोफाइल</string>
+
+</resources>

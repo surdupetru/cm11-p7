@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Nyílt navigációs fiók</string>
+    <string name="drawer_close">Bezárása navigáció fiók</string>
+
+    <string name="action_exit">Kijárat</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\ntulajdonságok és a boot szolgáltatás beállítása</string>
+    <string name="fragment_0_text">E kis app beállítani ROM-specifikus tulajdonságokat a végrehajtó több \"setprop\" parancsok az Ön számára\n\nírta xdaid</string>
+
+    <string name="fragment_1_label">Tartós tárolás\nezek a beállítások újraindítás után</string>
+    <string name="fragment_1_radio1">Tartós tárolás tiltva</string>
+    <string name="fragment_1_radio2">Tartós tárolás engedélyezett</string>
+    <string name="fragment_1_button">\u0020újraindítja most\u0020</string>
+
+    <string name="fragment_2_label">Kesztyű Mode\nezek a beállítások azonnal hatályba lép</string>
+    <string name="fragment_2_radio1">Letiltása</string>
+    <string name="fragment_2_radio2">Lehetővé</string>
+    <string name="fragment_2_switch">hogy a választás végleges\nújra alkalmazni profilt csomagtartó</string>
+
+</resources>

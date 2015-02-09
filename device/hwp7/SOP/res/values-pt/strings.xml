@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Gaveta de navegação Abrir</string>
+    <string name="drawer_close">Fechar gaveta navegação</string>
+
+    <string name="action_exit">Saída</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\npropriedades e configuração do serviço de inicialização</string>
+    <string name="fragment_0_text">O objetivo deste pequeno aplicativo é definir propriedades específicas de ROM, executando vários \"setprop\" comandos para você\n\nescrito por xdaid</string>
+
+    <string name="fragment_1_label">Armazenamento prolongado\nessas configurações entrem em vigor após a reinicialização</string>
+    <string name="fragment_1_radio1">Armazenamento prolongado desativada</string>
+    <string name="fragment_1_radio2">Armazenamento prolongado habilitado</string>
+    <string name="fragment_1_button">\u0020reinicializar agora\u0020</string>
+
+    <string name="fragment_2_label">Luvas Modo\nessas configurações tenham efeito imediato</string>
+    <string name="fragment_2_radio1">Desativar</string>
+    <string name="fragment_2_radio2">Possibilitar</string>
+    <string name="fragment_2_switch">faça a sua escolha permanente\nrecandidatar-se o perfil na inicialização</string>
+
+</resources>

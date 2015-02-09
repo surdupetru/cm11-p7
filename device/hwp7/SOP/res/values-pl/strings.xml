@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Otwórz szufladę nawigacji</string>
+    <string name="drawer_close">Blisko nawigacji szuflady</string>
+
+    <string name="action_exit">Wyjście</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nwłaściwości i ustawienia usługi rozruchu</string>
+    <string name="fragment_0_text">Celem tej małej aplikacji jest ustawiony specyficzne właściwości ROM wykonując kilka \"setprop\" polecenia dla ciebie\n\nnapisany przez xdaid</string>
+
+    <string name="fragment_1_label">Przechowywanie rozszerzona\nte ustawienia po ponownym uruchomieniu komputera</string>
+    <string name="fragment_1_radio1">Rozszerzone przechowywanie wyłączone</string>
+    <string name="fragment_1_radio2">Rozszerzone przechowywanie włączony</string>
+    <string name="fragment_1_button">\u0020zrestartuj teraz\u0020</string>
+
+    <string name="fragment_2_label">Tryb rękawice\nte weszły w życie natychmiast</string>
+    <string name="fragment_2_radio1">Wyłączyć</string>
+    <string name="fragment_2_radio2">Umożliwienia</string>
+    <string name="fragment_2_switch">dokonaj wyboru stałe\nponownie ubiegać profil przy starcie</string>
+
+</resources>

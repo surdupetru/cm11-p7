@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Atvērta navigācijas atvilktne</string>
+    <string name="drawer_close">Aizvērt navigācijas atvilktne</string>
+
+    <string name="action_exit">Iziet</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nīpašības un boot pakalpojumu uzstādīšana</string>
+    <string name="fragment_0_text">Šī maz app mērķis ir noteikt ROM specifiskas īpašības, izpildot vairākas \"setprop\" komandas jums\n\nraksta xdaid</string>
+
+    <string name="fragment_1_label">Pagarināts Storage \nšie iestatījumi stāsies spēkā pēc reboot</string>
+    <string name="fragment_1_radio1">Pagarināts uzglabāšanas atspējots</string>
+    <string name="fragment_1_radio2">Pagarināts uzglabāšanas ļāva</string>
+    <string name="fragment_1_button">\u0020pārstartēt tagad\u0020</string>
+
+    <string name="fragment_2_label">Cimdi Mode\nšie iestatījumi stāsies spēkā nekavējoties</string>
+    <string name="fragment_2_radio1">Atslēgt</string>
+    <string name="fragment_2_radio2">ļautu</string>
+    <string name="fragment_2_switch">izdarīt izvēli pastāvīgu\natkārtoti pieteikties profilu boot</string>
+
+</resources>

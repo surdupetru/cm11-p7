@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Config>
+    <Sensor Name="sonyimx134">
+        <NoramlLowLevelISO>700</NoramlLowLevelISO>
+        <NoramlLowLevelFrameNum>4</NoramlLowLevelFrameNum>
+        <NormalHighLevelISO>1600</NormalHighLevelISO>
+        <NoramlHighLevelFrameNum>4</NoramlHighLevelFrameNum>
+        <SmartLowLevelISO>700</SmartLowLevelISO>
+        <SmartLowLevelFrameNum>4</SmartLowLevelFrameNum>
+        <SmartNightFrameNum>4</SmartNightFrameNum>
+        <SmartLowNightFrameNum>6</SmartLowNightFrameNum>
+    </Sensor>
+
+    <Sensor Name="sonyimx135">
+        <NoramlLowLevelISO>700</NoramlLowLevelISO>
+        <NoramlLowLevelFrameNum>4</NoramlLowLevelFrameNum>
+        <NormalHighLevelISO>1600</NormalHighLevelISO>
+        <NoramlHighLevelFrameNum>4</NoramlHighLevelFrameNum>
+        <SmartLowLevelISO>700</SmartLowLevelISO>
+        <SmartLowLevelFrameNum>4</SmartLowLevelFrameNum>
+        <SmartNightFrameNum>4</SmartNightFrameNum>
+        <SmartLowNightFrameNum>6</SmartLowNightFrameNum>
+    </Sensor>
+
+    <Sensor Name="sonyimx179">
+        <NoramlLowLevelISO>700</NoramlLowLevelISO>
+        <NoramlLowLevelFrameNum>4</NoramlLowLevelFrameNum>
+        <NormalHighLevelISO>1600</NormalHighLevelISO>
+        <NoramlHighLevelFrameNum>4</NoramlHighLevelFrameNum>
+        <SmartLowLevelISO>700</SmartLowLevelISO>
+        <SmartLowLevelFrameNum>4</SmartLowLevelFrameNum>
+        <SmartNightFrameNum>4</SmartNightFrameNum>
+        <SmartLowNightFrameNum>6</SmartLowNightFrameNum>
+    </Sensor>
+
+    <Sensor Name="sonyimx214">
+        <NoramlLowLevelISO>1600</NoramlLowLevelISO>
+        <NoramlLowLevelFrameNum>4</NoramlLowLevelFrameNum>
+        <NormalHighLevelISO>2400</NormalHighLevelISO>
+        <NoramlHighLevelFrameNum>4</NoramlHighLevelFrameNum>
+        <SmartLowLevelISO>1600</SmartLowLevelISO>
+        <SmartLowLevelFrameNum>4</SmartLowLevelFrameNum>
+        <SmartNightFrameNum>4</SmartNightFrameNum>
+        <SmartLowNightFrameNum>6</SmartLowNightFrameNum>
+    </Sensor>
+</Config>

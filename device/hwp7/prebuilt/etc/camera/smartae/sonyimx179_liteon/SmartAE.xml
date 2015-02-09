@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AEConfig>
+    <FaceAE>
+    <minArea>4000</minArea>
+    <darkThreshold>80</darkThreshold>
+    <brightThreshold>160</brightThreshold>
+    <verydarkThreshold>35</verydarkThreshold>
+    <verybrightThreshold>180</verybrightThreshold>
+    <lowTarget_MAX>140</lowTarget_MAX>
+    <highTarget_MAX>172</highTarget_MAX>
+    <lowTarget_MIN>20</lowTarget_MIN>
+    <highTarget_MIN>40</highTarget_MIN>
+    <overExpoThreshold>35</overExpoThreshold>
+    <underExpoThreshold>35</underExpoThreshold>
+    </FaceAE>
+    <HistAE>
+               <OVEREXPO_2UnStable_TH>7000</OVEREXPO_2UnStable_TH>    <!--over expo and under expo parameters-->
+               <OVEREXPO_2Stable_TH>6000</OVEREXPO_2Stable_TH>
+               <UNDEREXPO_2UnStable_TH>2000</UNDEREXPO_2UnStable_TH>
+               <UNDEREXPO_2Stable_TH>1000</UNDEREXPO_2Stable_TH>
+               <EXPO_ISO_TH>400</EXPO_ISO_TH>
+               <OVEREXPO_2UnStable_TH_Dark>4000</OVEREXPO_2UnStable_TH_Dark>
+               <OVEREXPO_2Stable_TH_Dark>2500</OVEREXPO_2Stable_TH_Dark>
+               <UNDEREXPO_2UnStable_TH_Dark>3000</UNDEREXPO_2UnStable_TH_Dark>
+               <UNDEREXPO_2Stable_TH_Dark>1500</UNDEREXPO_2Stable_TH_Dark>
+               <MULTIPLE>2</MULTIPLE>
+               <EMPTYBIN_2Stable>6</EMPTYBIN_2Stable>
+               <EMPTYBIN_2UnStable>10</EMPTYBIN_2UnStable>
+
+               <targetLowMin_Default>35</targetLowMin_Default> <!--default config parameters-->
+               <targetLowMax_Default>53</targetLowMax_Default>
+               <targetHighMin_Default>55</targetHighMin_Default>
+               <targetHighMax_Default>85</targetHighMax_Default>
+
+               <targetLowMin_Night>35</targetLowMin_Night>        <!--night config parameters-->
+               <targetLowMax_Night>50</targetLowMax_Night>
+               <targetHighMin_Night>65</targetHighMin_Night>
+               <targetHighMax_Night>85</targetHighMax_Night>
+
+               <targetLowMin_Indoor>40</targetLowMin_Indoor>   <!--indoor config parameters-->
+               <targetLowMax_Indoor>50</targetLowMax_Indoor>
+               <targetHighMin_Indoor>70</targetHighMin_Indoor>
+               <targetHighMax_Indoor>85</targetHighMax_Indoor>
+
+               <targetLowMin_NightLight>16</targetLowMin_NightLight><!--nightlight config parameters-->
+               <targetLowMax_NightLight>18</targetLowMax_NightLight>
+               <targetHighMin_NightLight>20</targetHighMin_NightLight>
+               <targetHighMax_NightLight>25</targetHighMax_NightLight>
+               <targetLow_NightLight>16</targetLow_NightLight>
+               <targetHigh_NightLight>20</targetHigh_NightLight>
+
+               <LvDefault2Night>80</LvDefault2Night>  <!--is night parameters-->
+               <LvNight2Default>20</LvNight2Default>
+
+                <LvDefault2IndoorMin>4</LvDefault2IndoorMin>    <!--is indoor-->
+                <LvDefault2IndoorMax>45</LvDefault2IndoorMax>
+                <LvIndoor2DefaultMin>1</LvIndoor2DefaultMin>
+                <LvIndoor2DefaultMax>55</LvIndoor2DefaultMax>
+
+                <mid2over_HLIGHTR>10</mid2over_HLIGHTR>      <!--is nightlight parameters-->
+                <over2mid_HLIGHTR>1</over2mid_HLIGHTR>
+                <mid2over_MLIGHTR>300</mid2over_MLIGHTR>
+
+                <OVEREXPO_CH_TH>20000</OVEREXPO_CH_TH>  <!--ChOverExpoProtection parameters-->
+                <OVEREXPO_SKY>18000</OVEREXPO_SKY>
+    </HistAE>
+</AEConfig>

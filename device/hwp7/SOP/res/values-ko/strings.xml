@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">열기 탐색 함</string>
+    <string name="drawer_close">닫기 탐색 함</string>
+
+    <string name="action_exit">출구</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\n등록 및 부팅 서비스 설치</string>
+    <string name="fragment_0_text">이 작은 응용 프로그램의 목적은 여러 가지를 실행하여 ROM 고유의 속성을 설정하는 것입니다 \"setprop\" 당신을위한 명령\n\nxdaid에 의해 작성</string>
+
+    <string name="fragment_1_label">확장 스토리지\n이 설정은 재부팅 후에 적용</string>
+    <string name="fragment_1_radio1">확장 스토리지 비활성화</string>
+    <string name="fragment_1_radio2">활성화 확장 스토리지</string>
+    <string name="fragment_1_button">\u0020지금 재부팅\u0020</string>
+
+    <string name="fragment_2_label">장갑 모드\n이러한 설정은 즉시 적용</string>
+    <string name="fragment_2_radio1">비활성화</string>
+    <string name="fragment_2_radio2">가능</string>
+    <string name="fragment_2_switch">당신의 선택을 영구적으로\n부팅에 다시 적용 프로필</string>
+
+</resources>

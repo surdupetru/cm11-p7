@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Open чекмедже навигация</string>
+    <string name="drawer_close">Close навигация чекмедже</string>
+
+    <string name="action_exit">Изход</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nсвойства и настройка обувка услуга</string>
+    <string name="fragment_0_text">Целта на това малко приложение е да се определят ROM-специфични свойства, като се изпълняват няколко  \"setprop\" команди за вас \n\nнаписана от xdaid</string>
+
+    <string name="fragment_1_label">Продължително съхранение\nтези настройки да влязат в сила след рестартиране</string>
+    <string name="fragment_1_radio1">Продължително съхранение деактивиран</string>
+    <string name="fragment_1_radio2">Продължително съхранение включен</string>
+    <string name="fragment_1_button">\u0020рестартирате сега \u0020</string>
+
+    <string name="fragment_2_label">Ръкавици Mode \nтези настройки да влязат в сила веднага</string>
+    <string name="fragment_2_radio1">Изключване</string>
+    <string name="fragment_2_radio2">Активирайте</string>
+    <string name="fragment_2_switch">направите своя избор за постоянно\nкандидатстват отново профила при стартиране</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Deschideti optiunea de navigare</string>
+    <string name="drawer_close">Inchideti optiunea de navigare</string>
+
+    <string name="action_exit">Iesire</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nproprietati si setari la pornire</string>
+    <string name="fragment_0_text">Scopul acestei applicatii este de a steta unele comenzi in \"setprop\" pentru dumneavoastra\n\nscris de xdaid</string>
+
+    <string name="fragment_1_label">Extindere Stocare\naceasta setare are efect dupa repornirea aparatului</string>
+    <string name="fragment_1_radio1">Extindere stocare dezactivata</string>
+    <string name="fragment_1_radio2">Extindere stocare activata</string>
+    <string name="fragment_1_button">\u0020reporniti acum\u0020</string>
+
+    <string name="fragment_2_label">Modul Manusi\naceste setari au efect imediat</string>
+    <string name="fragment_2_radio1">Dezactivat</string>
+    <string name="fragment_2_radio2">Activat</string>
+    <string name="fragment_2_switch">faceti alegerea permanenta\nprofil reactivat automat la repornirea aparatului</string>
+
+</resources>

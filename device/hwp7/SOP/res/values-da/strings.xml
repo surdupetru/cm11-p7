@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Åbent navigation skuffe</string>
+    <string name="drawer_close">Luk navigation skuffe</string>
+
+    <string name="action_exit">Udgang</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\negenskaber og boot tjeneste setup</string>
+    <string name="fragment_0_text">Formålet med denne lille app er at ROM-specifikke egenskaber ved at udføre flere  \"setprop\" kommandoer til dig\n\nskrevet af xdaid</string>
+
+    <string name="fragment_1_label">Langtidslagring\ndisse indstillinger træder i kraft efter genstart</string>
+    <string name="fragment_1_radio1">Langtidslagring deaktiveret</string>
+    <string name="fragment_1_radio2">Langtidslagring aktiveret</string>
+    <string name="fragment_1_button">\u0020genstarte nu\u0020</string>
+
+    <string name="fragment_2_label">Handsker tilstand\ndisse indstillinger træder i kraft øjeblikkeligt</string>
+    <string name="fragment_2_radio1">Deaktivere</string>
+    <string name="fragment_2_radio2">Muliggøre</string>
+    <string name="fragment_2_switch">gøre dit valg permanent\nansøge igen profil på boot</string>
+
+</resources>

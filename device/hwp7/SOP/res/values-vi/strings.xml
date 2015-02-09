@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Mở hướng ngăn kéo</string>
+    <string name="drawer_close">Đóng cửa hướng ngăn kéo</string>
+
+    <string name="action_exit">ra</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\ntài sản và thiết lập dịch vụ khởi động</string>
+    <string name="fragment_0_text">Mục đích của ứng dụng này ít là để thiết lập các thuộc tính ROM cụ thể bằng cách thực hiện một số \"setprop\" lệnh cho bạn\n\nđược viết bởi xdaid</string>
+
+    <string name="fragment_1_label">mở rộng lưu trữ\ncác thiết lập này có hiệu lực sau khi khởi động lại</string>
+    <string name="fragment_1_radio1">Lưu trữ mở rộng bị vô hiệu hóa</string>
+    <string name="fragment_1_radio2">Lưu trữ mở rộng cho phép</string>
+    <string name="fragment_1_button">\u0020khởi động lại bây giờ\u0020</string>
+
+    <string name="fragment_2_label">Găng tay chế độ\ncác thiết lập này có hiệu lực ngay lập tức</string>
+    <string name="fragment_2_radio1">Vô hiệu hóa</string>
+    <string name="fragment_2_radio2">Cho phép</string>
+    <string name="fragment_2_switch">làm cho sự lựa chọn của bạn vĩnh viễn\ntái áp dụng hồ sơ trên khởi động</string>
+
+</resources>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<algorithm-settings>
+    <scene name="off" default="true">
+        <device input="*" output="*" default="true">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+    <scene name="normal">
+        <device input="*" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+    <scene name="meeting">
+        <device input="in_builtin_mic" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="true"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+        <device input="*" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+    <scene name="interview">
+        <device input="in_builtin_mic" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-8"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="32767"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="true"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+        <device input="*" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-8"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="32767"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+    <scene name="music">
+        <device input="in_builtin_mic" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="true"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+        <device input="*" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+    <scene name="video">
+        <device input="in_builtin_mic" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="true"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+        <device input="*" output="*">
+            <algorithm name="ANR">
+                <parameter key="Enable" value="true"/>
+                <parameter key="InitNoiseLevelMode" value="1"/>
+                <parameter key="NoiseReductionLevel" value="-13"/>
+                <parameter key="BypassNoiseLevel" value="32767"/>
+                <parameter key="MinimumEnergyLevel" value="32767"/>
+                <parameter key="FloorNoiseThreshold" value="-47"/>
+            </algorithm>
+            <algorithm name="WNR">
+                <parameter key="Enable" value="false"/>
+                <parameter key="Mode" value="1"/>
+            </algorithm>
+            <algorithm name="STEREOENHANCEMENT">
+                <parameter key="Enable" value="false"/>
+                <parameter key="HPEhanceEnable" value="true"/>
+                <parameter key="HPGain" value="0.8"/>
+                <parameter key="MicDistance" value="123"/>
+                <parameter key="LeftChannelDelay" value="0"/>
+                <parameter key="RightChannelDelay" value="0"/>
+                <parameter key="MicChannelExchange" value="false"/>
+            </algorithm>
+        </device>
+    </scene>
+</algorithm-settings>

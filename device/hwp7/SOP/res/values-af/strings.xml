@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Open navigasie trekker</string>
+    <string name="drawer_close">Close navigasie trekker</string>
+
+    <string name="action_exit">Uitgang</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\neienskappe en boot diens opstel</string>
+    <string name="fragment_0_text">Die doel van hierdie klein artikels is ROM-spesifieke eienskappe te stel deur die uitvoering van \'n paar \"setprop\" opdragte vir jou\n\ngeskryf deur xdaid</string>
+
+    <string name="fragment_1_label">Uitgebrei Storage\nhierdie instellings in werking tree nadat reboot</string>
+    <string name="fragment_1_radio1">Uitgebreide stoor afgeskakel</string>
+    <string name="fragment_1_radio2">Uitgebreide stoor aangeskakel</string>
+    <string name="fragment_1_button">\u0020herlaai nou\u0020</string>
+
+    <string name="fragment_2_label">Handskoene af\nhierdie instellings in werking tree onmiddellik</string>
+    <string name="fragment_2_radio1">Afskakel</string>
+    <string name="fragment_2_radio2">In staat stel om</string>
+    <string name="fragment_2_switch">maak jou keuse permanente\nheraansoek doen profiel op die boot</string>
+
+</resources>

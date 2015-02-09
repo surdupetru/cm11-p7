@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Odpri navigacija predal</string>
+    <string name="drawer_close">Zapri navigacija predal</string>
+
+    <string name="action_exit">Izhod</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nlastnosti in nastavitve boot storitev</string>
+    <string name="fragment_0_text">Namen tega malo app je določiti ROM-specifičnih lastnosti z izvedbo več \"setprop\" ukazi za vas\n\nz xdaid napisal</string>
+
+    <string name="fragment_1_label">Razširjena Storage\nte nastavitve začnejo veljati po ponovnem zagonu</string>
+    <string name="fragment_1_radio1">Dolgotrajno skladiščenje onemogočeno</string>
+    <string name="fragment_1_radio2">Dolgotrajno skladiščenje omogočen</string>
+    <string name="fragment_1_button">\u0020sedaj ponovno zagnati\u0020</string>
+
+    <string name="fragment_2_label">Način rokavice\nte nastavitve začnejo veljati takoj</string>
+    <string name="fragment_2_radio1">Onemogočiti</string>
+    <string name="fragment_2_radio2">Omogočajo</string>
+    <string name="fragment_2_switch">bo vaša izbira za nedoločen čas\nponovno uporabiti profil na boot</string>
+
+</resources>

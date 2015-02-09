@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">ลิ้นชักเปิดนำทาง</string>
+    <string name="drawer_close">ปิดลิ้นชักนำทาง</string>
+
+    <string name="action_exit">ทางออก</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nคุณสมบัติและการตั้งค่าบริการเริ่มต้น</string>
+    <string name="fragment_0_text">วัตถุประสงค์ของ app น้อยนี้คือการตั้งค่าคุณสมบัติรอมเฉพาะโดยการดำเนินหลาย \"setprop\" คำสั่งสำหรับคุณ\n\nเขียนโดย xdaid</string>
+
+    <string name="fragment_1_label">การจัดเก็บข้อมูลระยะยาว\nตั้งค่าเหล่านี้จะมีผลหลังจากรีบูต</string>
+    <string name="fragment_1_radio1">การจัดเก็บขยายปิดการใช้งาน</string>
+    <string name="fragment_1_radio2">การจัดเก็บข้อมูลการใช้งานที่เพิ่มขึ้น</string>
+    <string name="fragment_1_button">\u0020ตอนนี้รีบูต\u0020</string>
+
+    <string name="fragment_2_label">โหมดถุงมือ\nตั้งค่าเหล่านี้จะมีผลทันที</string>
+    <string name="fragment_2_radio1">ปิดการใช้งาน</string>
+    <string name="fragment_2_radio2">ช่วยให้</string>
+    <string name="fragment_2_switch">ให้คุณเลือกอย่างถาวร\nสมัครใหม่รายละเอียดในการบูต</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Öppna navigations låda</string>
+    <string name="drawer_close">Stäng navigering låda</string>
+
+    <string name="action_exit">Utgång</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\negenskaper och bagagetjänst inställning</string>
+    <string name="fragment_0_text">Syftet med denna lilla app är att ställa ROM specifika egenskaper genom att köra flera
+\"setprop\" kommandon för dig\n\nskriven av xdaid</string>
+
+    <string name="fragment_1_label">Utökad lagring\ndessa inställningar aktiveras efter omstart</string>
+    <string name="fragment_1_radio1">Långtidsförvaring inaktiv</string>
+    <string name="fragment_1_radio2">Långtidsförvaring aktiverat</string>
+    <string name="fragment_1_button">\u0020starta om nu\u0020</string>
+
+    <string name="fragment_2_label">Рукавице Моде\ninställningarna träder i kraft omedelbart</string>
+    <string name="fragment_2_radio1">Oнемогућено</string>
+    <string name="fragment_2_radio2">Oмогућено</string>
+    <string name="fragment_2_switch">gör ditt val permanent\nåter tillämpa profil vid uppstart</string>
+
+</resources>

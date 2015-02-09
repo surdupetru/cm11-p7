@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Відкрити навігації ящик</string>
+    <string name="drawer_close">Закрити навігації ящик</string>
+
+    <string name="action_exit">вихід</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nвластивості і установки сервіс завантаження</string>
+    <string name="fragment_0_text">Мета цього невеликий додаток є установка властивості ROM конкретних, виконавши кілька \"setprop\" Команди для вас\n\nнаписана xdaid</string>
+
+    <string name="fragment_1_label">тривале зберігання\nці параметри набувають чинності після перезавантаження</string>
+    <string name="fragment_1_radio1">Тривале зберігання відключена</string>
+    <string name="fragment_1_radio2">Тривале зберігання включений</string>
+    <string name="fragment_1_button">\u0020перезавантаження\u0020</string>
+
+    <string name="fragment_2_label">Pукавички Режим\nці параметри набувають чинності негайно</string>
+    <string name="fragment_2_radio1">відключити</string>
+    <string name="fragment_2_radio2">включити</string>
+    <string name="fragment_2_switch">зробити свій вибір постійним\nповторно застосувати профіль при завантаженні</string>
+
+</resources>

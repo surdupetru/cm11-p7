@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="drawer_close">Fermer navigation tiroir</string>
+
+    <string name="action_exit">Sortie </string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\npropriétés et la configuration du service de démarrage</string>
+    <string name="fragment_0_text">Le but de ce petit soft est de définir les propriétés spécifiques-ROM en exécutant plusieurs \"setprop\" commandes pour vous\n\nécrit par xdaid</string>
+
+    <string name="fragment_1_label">Stockage prolongé\nque ces modifications prennent effet après le redémarrage</string>
+    <string name="fragment_1_radio1">Stockage prolongé désactivé</string>
+    <string name="fragment_1_radio2">Stockage prolongé permis</string>
+    <string name="fragment_1_button">\u0020redémarrer maintenant\u0020</string>
+
+    <string name="fragment_2_label">Mode Gants\nces paramètres prennent effet immédiatement</string>
+    <string name="fragment_2_radio1">Désactiver</string>
+    <string name="fragment_2_radio2">Permettre</string>
+    <string name="fragment_2_switch">faites votre choix permanent\nréappliquer profil au démarrage</string>
+
+</resources>

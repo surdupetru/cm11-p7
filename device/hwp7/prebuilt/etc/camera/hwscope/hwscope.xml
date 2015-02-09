@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Config>
+    <Sensor Name="sonyimx134">
+        <AlgoCoffs>
+                0 0 8 0 256 -1 -1 1 0 384 3 1
+        </AlgoCoffs>
+    </Sensor>
+
+    <Sensor Name="sonyimx135">
+        <AlgoCoffs>
+                0 0 8 0 256 -1 -1 1 0 384 3 1
+        </AlgoCoffs>
+    </Sensor>
+</Config>

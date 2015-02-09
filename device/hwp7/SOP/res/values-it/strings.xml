@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">Cassetto navigazione Aperto</string>
+    <string name="drawer_close">Chiudere il cassetto di navigazione</string>
+
+    <string name="action_exit">Uscita</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nproprietà e la configurazione del servizio di avvio</string>
+    <string name="fragment_0_text">Lo scopo di questa piccola app è quello di impostare proprietà specifiche ROM eseguendo vari  \"setprop\" comandi per voi\n\nscritto da xdaid</string>
+
+    <string name="fragment_1_label">Stoccaggio prolungato\nqueste impostazioni hanno effetto dopo il riavvio</string>
+    <string name="fragment_1_radio1">Lungo immagazzinaggio disabilitato</string>
+    <string name="fragment_1_radio2">Lungo immagazzinaggio abilitato</string>
+    <string name="fragment_1_button">\u0020riavviare ora\u0020</string>
+
+    <string name="fragment_2_label">Modalità Guanti\nqueste impostazioni hanno effetto immediato</string>
+    <string name="fragment_2_radio1">Disabilitare</string>
+    <string name="fragment_2_radio2">Permettere</string>
+    <string name="fragment_2_switch">fate la vostra scelta permanente\nriapplicare profilo al boot</string>
+
+</resources>

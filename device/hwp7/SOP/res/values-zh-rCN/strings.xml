@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">打开抽屉导航</string>
+    <string name="drawer_close">关闭导航抽屉</string>
+
+    <string name="action_exit">出口</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\n性能和启动服务设置</string>
+    <string name="fragment_0_text">这个小应用程序的目的是通过执行一些设置ROM的特定属性 \"setprop\" 为你的命令\n\n写xdaid</string>
+
+    <string name="fragment_1_label">扩展存储\n这些设置需要重新启动后生效</string>
+    <string name="fragment_1_radio1">长期存放禁用</string>
+    <string name="fragment_1_radio2">启用扩展存储</string>
+    <string name="fragment_1_button">\u0020现在重新启动\u0020</string>
+
+    <string name="fragment_2_label">手套模式\n这些设置立即生效</string>
+    <string name="fragment_2_radio1">关闭</string>
+    <string name="fragment_2_radio2">启用</string>
+    <string name="fragment_2_switch">让你永久的选择\n在开机重新申请简介</string>
+
+</resources>

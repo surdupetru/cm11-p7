@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+    <Global>
+        <NoiseReductionFlag>1</NoiseReductionFlag>
+        <LumaEnhancementFlag>0</LumaEnhancementFlag>
+    </Global>
+    <NoiseReduction>
+        <ISO1>
+            <isovalue>200</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-90</lumaS>
+            <chromaS>-100</chromaS>
+            <detail>-128</detail>
+            <chromaNrLUT>246 110 78 80 167 76 63 55 97 49 47 61 66 31 33
+            17 23 22 26 0 118 74 80 208 126 54 58 176 45 36 39 126 13 23
+            28 61 0 16 22 0</chromaNrLUT>
+        </ISO1>
+        <ISO2>
+            <isovalue>400</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-90</lumaS>
+            <chromaS>-90</chromaS>
+            <detail>-125</detail>
+            <chromaNrLUT>336 190 164 44 196 124 111 0 113 72 76 0 40 41
+            50 0 0 26 33 0 181 187 181 193 145 122 123 157 0 70 73 121 0
+            39 41 82 0 23 25 0</chromaNrLUT>
+        </ISO2>
+        <ISO3>
+            <isovalue>800</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-90</lumaS>
+            <chromaS>-90</chromaS>
+            <detail>-120</detail>
+            <chromaNrLUT>198 238 176 193 105 156 118 160 59 89 70 50 37
+            49 39 0 18 29 24 0 172 214 194 192 123 144 135 113 77 84 80
+            72 0 47 45 38 0 27 26 10</chromaNrLUT>
+        </ISO3>
+        <ISO4>
+            <isovalue>1600</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-80</lumaS>
+            <chromaS>-80</chromaS>
+            <detail>-110</detail>
+            <chromaNrLUT>280 230 184 0 149 163 141 0 27 95 82 0 8 52 46 0
+            0 29 27 0 195 225 201 79 0 168 150 0 0 101 86 0 0 55 46 0 0
+            31 27 0</chromaNrLUT>
+        </ISO4>
+        <ISO5>
+            <isovalue>2400</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-80</lumaS>
+            <chromaS>-70</chromaS>
+            <detail>-110</detail>
+            <chromaNrLUT>280 230 184 0 149 163 141 0 27 95 82 0 8 52 46 0
+            0 29 27 0 195 225 201 79 0 168 150 0 0 101 86 0 0 55 46 0 0
+            31 27 0</chromaNrLUT>
+        </ISO5>
+        <ISO6>
+            <isovalue>3200</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-70</lumaS>
+            <chromaS>-60</chromaS>
+            <detail>-100</detail>
+            <chromaNrLUT>280 230 184 0 149 163 141 0 27 95 82 0 8 52 46 0
+            0 29 27 0 195 225 201 79 0 168 150 0 0 101 86 0 0 55 46 0 0
+            31 27 0</chromaNrLUT>
+        </ISO6>
+        <ISO7>
+            <isovalue>4800</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-65</lumaS>
+            <chromaS>-65</chromaS>
+            <detail>-80</detail>
+            <chromaNrLUT>280 230 184 0 149 163 141 0 27 95 82 0 8 52 46 0
+            0 29 27 0 195 225 201 79 0 168 150 0 0 101 86 0 0 55 46 0 0
+            31 27 0</chromaNrLUT>
+        </ISO7>
+        <ISO8>
+            <isovalue>6400</isovalue>
+            <NoiseReductionFlag>1</NoiseReductionFlag>
+            <lumaS>-50</lumaS>
+            <chromaS>-30</chromaS>
+            <detail>-70</detail>
+            <chromaNrLUT>280 230 184 0 149 163 141 0 27 95 82 0 8 52 46 0
+            0 29 27 0 195 225 201 79 0 168 150 0 0 101 86 0 0 55 46 0 0
+            31 27 0</chromaNrLUT>
+        </ISO8>
+    </NoiseReduction>
+
+    <ChromaEnhancement>
+        <enhancementLevel>2</enhancementLevel>
+    </ChromaEnhancement>
+
+    <LumaEnhancement>
+        <maxGain>32</maxGain>
+        <lumaTH>1500</lumaTH>
+        <peakTH>800</peakTH>
+    </LumaEnhancement>
+
+    <GhostDetection>
+        <ISO1>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO1>
+        <ISO2>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO2>
+        <ISO3>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO3>
+        <ISO4>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO4>
+        <ISO5>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO5>
+        <ISO6>
+            <lumaTH_Low>48</lumaTH_Low>
+            <lumaTH_High>160</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>160</chromaTH_Low>
+            <chromaTH_High>160</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO6>
+        <ISO7>
+            <lumaTH_Low>160</lumaTH_Low>
+            <lumaTH_High>240</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>240</chromaTH_Low>
+            <chromaTH_High>240</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO7>
+        <ISO8>
+            <lumaTH_Low>160</lumaTH_Low>
+            <lumaTH_High>240</lumaTH_High>
+            <lumaNoiseTH>160</lumaNoiseTH>
+            <chromaTH_Low>240</chromaTH_Low>
+            <chromaTH_High>240</chromaTH_High>
+            <chromaNoiseTH>4080</chromaNoiseTH>
+        </ISO8>
+    </GhostDetection>
+
+    <hdr>
+        <night_iso>800</night_iso>
+        <night_exposure>15</night_exposure>
+        <ImageRegistrationMethod>1</ImageRegistrationMethod>
+        <GhostRemovalMethod>1</GhostRemovalMethod>
+        <LocalMotionThresAuto>5</LocalMotionThresAuto>
+        <LocalMotionThresManual>20</LocalMotionThresManual>
+        <ImageFusionMethod>1</ImageFusionMethod>
+        <PostProcessValid>1</PostProcessValid>
+        <MotionCorrectioHDR>
+            <coarseThresh>60</coarseThresh>
+            <coarseThreshBM_BRef>20</coarseThreshBM_BRef>
+            <oemOverlapSizeThresh>0.2</oemOverlapSizeThresh>
+        </MotionCorrectioHDR>
+    </hdr>
+</Config>

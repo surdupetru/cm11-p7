@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOP</string>
+    
+    <string name="drawer_open">מגירת ניווט פתוחה</string>
+    <string name="drawer_close">מגירת ניווט קרובה</string>
+
+    <string name="action_exit">יציאה</string>
+
+    <string name="fragment_0_label">Surdu\'s CM11\nמאפיינים ומערך שירות האתחול</string>
+    <string name="fragment_0_text">מטרת יישום קטן זה כדי להגדיר מאפייני ROM ספציפי על ידי ביצוע כמה \"setprop\" פקודות בשבילך\n\nxdaid נכתב על ידי </string>
+
+    <string name="fragment_1_label">חפצים מורחבים\nהגדרות אלה ייכנסו לתוקף לאחר אתחול מחדש</string>
+    <string name="fragment_1_radio1">אחסון מורחב מושבתים</string>
+    <string name="fragment_1_radio2">אחסון מורחב אפשר</string>
+    <string name="fragment_1_button">\u0020אתחול מחדש של החברה\u0020</string>
+
+    <string name="fragment_2_label">מצב כפפות\nהגדרות אלה ייכנסו לתוקף באופן מיידי</string>
+    <string name="fragment_2_radio1">להשבית</string>
+    <string name="fragment_2_radio2">לאפשר</string>
+    <string name="fragment_2_switch">לעשות את הבחירה שלך קבועה\nפרופיל להירשם מחדש באתחול</string>
+
+</resources>
